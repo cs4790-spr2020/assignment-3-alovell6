@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/aaronlovell/BlabberApp/BlabberApp.WebApiTest/BlabberApp.WebApiTest.csproj": {}
+  },
+  "projects": {
+    "/home/aaronlovell/BlabberApp/BlabberApp.WebApiTest/BlabberApp.WebApiTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aaronlovell/BlabberApp/BlabberApp.WebApiTest/BlabberApp.WebApiTest.csproj",
+        "projectName": "BlabberApp.WebApiTest",
+        "projectPath": "/home/aaronlovell/BlabberApp/BlabberApp.WebApiTest/BlabberApp.WebApiTest.csproj",
+        "packagesPath": "/home/aaronlovell/.nuget/packages/",
+        "outputPath": "/home/aaronlovell/BlabberApp/BlabberApp.WebApiTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aaronlovell/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

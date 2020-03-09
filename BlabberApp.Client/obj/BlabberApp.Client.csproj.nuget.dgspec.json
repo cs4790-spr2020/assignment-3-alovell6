@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.Client/BlabberApp.Client.csproj": {}
+  },
+  "projects": {
+    "/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.Client/BlabberApp.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.Client/BlabberApp.Client.csproj",
+        "projectName": "BlabberApp.Client",
+        "projectPath": "/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.Client/BlabberApp.Client.csproj",
+        "packagesPath": "/home/aaronlovell/.nuget/packages/",
+        "outputPath": "/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aaronlovell/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/BlabberApp.DataStore.csproj": {
+                "projectPath": "/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/BlabberApp.DataStore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/BlabberApp.DataStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/BlabberApp.DataStore.csproj",
+        "projectName": "BlabberApp.DataStore",
+        "projectPath": "/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/BlabberApp.DataStore.csproj",
+        "packagesPath": "/home/aaronlovell/.nuget/packages/",
+        "outputPath": "/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/aaronlovell/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

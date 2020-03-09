@@ -1,0 +1,16 @@
+/home/aaronlovell/BlabberApp/BlabberApp.DataStore/bin/Debug/netstandard2.0/BlabberApp.DataStore.deps.json
+/home/aaronlovell/BlabberApp/BlabberApp.DataStore/bin/Debug/netstandard2.0/BlabberApp.DataStore.dll
+/home/aaronlovell/BlabberApp/BlabberApp.DataStore/bin/Debug/netstandard2.0/BlabberApp.DataStore.pdb
+/home/aaronlovell/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.csprojAssemblyReference.cache
+/home/aaronlovell/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.AssemblyInfoInputs.cache
+/home/aaronlovell/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.AssemblyInfo.cs
+/home/aaronlovell/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.dll
+/home/aaronlovell/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.pdb
+/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/bin/Debug/netstandard2.0/BlabberApp.DataStore.deps.json
+/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/bin/Debug/netstandard2.0/BlabberApp.DataStore.dll
+/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/bin/Debug/netstandard2.0/BlabberApp.DataStore.pdb
+/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.csprojAssemblyReference.cache
+/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.AssemblyInfoInputs.cache
+/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.AssemblyInfo.cs
+/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.dll
+/home/aaronlovell/BlabberApp/BlabberApp/BlabberApp.DataStore/obj/Debug/netstandard2.0/BlabberApp.DataStore.pdb
